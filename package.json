@@ -20,7 +20,7 @@
     "iview": "^3.5.2",
     "nuxt-edge": "2.10.2-26192170.a3f1957a",
     "socket.io-client": "^2.3.1",
-    "tinymce": "^5.1.0",
+    "tinymce": "^5.4.1",
     "vue-outline": "^4.0.4"
   },
   "devDependencies": {
